@@ -17,3 +17,7 @@ https://coding-boot-camp.github.io/full-stack/git/getting-started-with-git
 W3Schools Semantic Tags page has listed semantic tags as well as information explaining the differring tags available.
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Github pages link.
+
+https://keeslingb.github.io/semantic-html/
